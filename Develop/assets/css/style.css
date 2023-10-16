@@ -7,7 +7,6 @@
 }
 
 /* ===HEADER=== */
-/* The following sets the formatting of the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -82,7 +81,7 @@ p {
 }
 
 
-.content-box {
+.card {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -91,11 +90,11 @@ p {
     color: #ffffff;
 }
 
-.content-box img {
+.card img {
     max-height: 200px;
 }
 
-.content-box h2 {
+.card h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -111,17 +110,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-list {
+.benefit-card {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-list h3 {
+.benefit-card h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-list img {
+.benefit-card img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
