@@ -15,9 +15,7 @@ N/A
 
 Link: 
 Screenshot: 
-    ```md
-    ![alt text](assets/images/Horiseon-Marketing-website.html)
-    ```
+    md![alt text](assets/images/Horiseon-Marketing-website.html)
 
 ## License
 
@@ -25,5 +23,5 @@ N/A
 
 
 ## References
-https://www.semrush.com/blog/semantic-html5-guide/
-https://perishablepress.com/obsessive-css-code-formatting-organization-comments-and-signatures/
+Pavlik, Vlado. (3 Dec 2022) "Semantic HTML: What It Is and How to Use It Correctly," https://www.semrush.com/blog/semantic-html5-guide/
+Starr, Jeff. (3 July 2018) "Obsessive CSS Code Formatting: Organization, Comments, and Signatures," https://perishablepress.com/obsessive-css-code-formatting-organization-comments-and-signatures/
