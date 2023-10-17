@@ -16,7 +16,7 @@ N/A
 Link: https://dtran44.github.io/Horiseon-Marketing-website/
 
 Screenshot: 
-[alt text](assets/images/Horiseon-Marketing-website.html)
+[alt text]([assets/images/Horiseon-Marketing-website.html)](https://github.com/dtran44/Horiseon-Marketing-website/blob/main/assets/images/Horiseon-Marketing-website.html.png)
 
 ## License
 
