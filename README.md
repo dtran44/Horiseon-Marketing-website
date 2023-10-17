@@ -13,7 +13,8 @@ N/A
 
 ## Usage
 
-Link: 
+Link: https://dtran44.github.io/Horiseon-Marketing-website/
+
 Screenshot: 
     md![alt text](assets/images/Horiseon-Marketing-website.html)
 
